@@ -7,7 +7,7 @@ Blanchard is a landing page for an art gallery website with the ability to subsc
 - HTML 5
 - CSS
 - JavaScript
-- query-ui
+- jquery-ui
 - PHPMailer
 - BEM
 
